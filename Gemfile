@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'locomotivecms', '~> 3.3.0'
+
+gem 'locomotive_subscriptions', path: '../..'
